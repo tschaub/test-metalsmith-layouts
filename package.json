@@ -1,0 +1,12 @@
+{
+  "name": "test-metalsmith-layouts",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "metalsmith"
+  },
+  "devDependencies": {
+    "handlebars": "4.0.5",
+    "metalsmith": "2.1.0",
+    "metalsmith-layouts": "1.6.4"
+  }
+}
