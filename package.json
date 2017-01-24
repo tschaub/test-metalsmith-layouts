@@ -5,8 +5,8 @@
     "test": "metalsmith"
   },
   "devDependencies": {
-    "handlebars": "4.0.5",
-    "metalsmith": "2.1.0",
-    "metalsmith-layouts": "1.6.4"
+    "handlebars": "4.0.6",
+    "metalsmith": "2.3.0",
+    "metalsmith-layouts": "1.7.0"
   }
 }
