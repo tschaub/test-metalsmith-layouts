@@ -1,5 +1,7 @@
 # Testing metalsmith-layouts
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tschaub/test-metalsmith-layouts.svg)](https://greenkeeper.io/)
+
 This repo includes a test of `metalsmith-layouts` with a partial.
 
 The `layouts/nested/layout.html` template refers to a partial named `partial`.  The `metalsmith.json` config includes `"partials": "partials"`.  My assumption is that the `partials` directory should be relative to the current working directory.
